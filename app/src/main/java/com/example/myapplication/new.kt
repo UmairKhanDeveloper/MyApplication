@@ -66,6 +66,3 @@ fun HomeScreen1() {
 
     }
 }
-
-
-
